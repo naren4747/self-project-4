@@ -5,7 +5,7 @@ var enemy2,enemy21,enemy22,enemy23,enemy24
 
 var bgimg
 var edge
-var enemyDeaths=19
+var enemyDeaths=0
 var gameState="Level 1"
 
 function preload(){
